@@ -21,6 +21,6 @@ Every tool runs in your browser. PDFs, photos and videos are processed on your o
 | **Math** | [Slope calculator](https://kazamtools.com/math/slope-calculator/) · [Area calculator](https://kazamtools.com/math/area-calculator/) · [GPA calculator](https://kazamtools.com/math/gpa-calculator/) · [All math tools](https://kazamtools.com/math/) |
 | **Converters** | [cm to feet](https://kazamtools.com/converters/cm-to-feet/) · [Length converter](https://kazamtools.com/converters/length-converter/) · [All converters](https://kazamtools.com/converters/) |
 
-**Follow us:** [YouTube](https://www.youtube.com/@kazamtools) · [X](https://x.com/kazamtools) · [Bluesky](https://bsky.app/profile/kazamtools.bsky.social)
+**Follow us:** [YouTube](https://www.youtube.com/@kazamtools) · [X](https://x.com/kazamtools) · [Bluesky](https://bsky.app/profile/kazamtools.com)
 
 Questions or ideas for a new tool? Email [hello@kazamtools.com](mailto:hello@kazamtools.com).
